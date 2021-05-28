@@ -1,0 +1,3 @@
+com.java.study.netty.serialize.impl.MetadataSerializer
+com.java.study.netty.serialize.impl.RpcRequestSerializer
+com.java.study.netty.serialize.impl.StringSerializer
